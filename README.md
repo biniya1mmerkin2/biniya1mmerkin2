@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Biniyam Merkin! 👋
 
-<!--
-**biniya1mmerkin2/biniya1mmerkin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a front-end developer. I enjoy writing code using javascript. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- Commercepal(https://www.commercepal.com): it is best ecommerce website.
+- Hustler Commercepal(https://www.hustler.commercepal.com/): it is another version of the commercepal.
+
+
+## Skills
+
+- Programming Languages: JavaScript , Java , PHP 
+- Tools & Technologies: ReactJS , NodeJS, React Native, Express JS
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/biniyam-merkin-0046a9250/
+
+Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
