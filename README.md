@@ -6,8 +6,8 @@ I'm a front-end developer. I enjoy writing code using javascript.
 
 ## Current Projects
 
-- Commercepal(https://www.commercepal.com): it is best ecommerce website.
-- Hustler Commercepal(https://www.hustler.commercepal.com/): it is another version of the commercepal.
+- Commercepal(https://commercepal.com/browse): it is best ecommerce website.
+- Hustler Commercepal(https://hustler.commercepal.com/): it is another version of the commercepal.
 
 
 ## Skills
