@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I am Front-End developer in the company called HudHud.  I have also knowledge of Back-End development using NodeJS. I’m currently working on the projects listed below.<br>     <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊<br>      -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse
+🔭  I am Front-End developer in the company called HudHud.  I also have knowledge of Back-End development using NodeJS. I’m currently working on the projects listed below.<br>     <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊<br>      -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse
 
 
 ## 🌐 Socials:
