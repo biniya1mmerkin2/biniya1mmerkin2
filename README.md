@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Biniyam Merkin — a passionate Frontend Developer with 3+ years of experience building modern web applications using React, JavaScript, Tailwind CSS, and Material UI.
-🚀 I enjoy turning ideas into interactive and user-friendly experiences.
-💼 Currently exploring full-stack projects and open to collaboration.
+👋 Hi, I'm Biniyam Merkin — a passionate Frontend Developer with 4+ years of experience building modern web applications using React, JavaScript, Tailwind CSS, and Material UI.<br>
+🚀 I enjoy turning ideas into interactive and user-friendly experiences.<br>
+💼 Currently exploring full-stack projects and open to collaboration.<br>
 
 📫 Let's connect:https://www.linkedin.com/in/biniyam-merkin-0046a9250/<br>  I’m currently working on the projects listed below.<br>    -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse <br> -https://all-in-one-market.com <br> -https://hudhudexpress.com/ <br > -https://gsap-project-cd4a.vercel.app/ <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
 
