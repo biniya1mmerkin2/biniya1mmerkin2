@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭  I am a Front-End developer in the company called HudHud.  I also have a knowledge of Back-End development using NodeJS and ExpressJS. I’m currently working on the projects listed below.<br>    -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse <br> -https://all-in-one-market.com <br> -https://hudhudexpress.com/ <br > -https://gsap-project-cd4a.vercel.app/ <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
+👋 Hi, I'm Biniyam Merkin — a passionate Frontend Developer with 3+ years of experience building modern web applications using React, JavaScript, Tailwind CSS, and Material UI.
+🚀 I enjoy turning ideas into interactive and user-friendly experiences.
+💼 Currently exploring full-stack projects and open to collaboration.
+
+📫 Let's connect:https://www.linkedin.com/in/biniyam-merkin-0046a9250/  I’m currently working on the projects listed below.<br>    -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse <br> -https://all-in-one-market.com <br> -https://hudhudexpress.com/ <br > -https://gsap-project-cd4a.vercel.app/ <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
 
 
 ## 🌐 Socials:
