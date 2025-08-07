@@ -3,7 +3,7 @@
 🚀 I enjoy turning ideas into interactive and user-friendly experiences.
 💼 Currently exploring full-stack projects and open to collaboration.
 
-📫 Let's connect:https://www.linkedin.com/in/biniyam-merkin-0046a9250/  I’m currently working on the projects listed below.<br>    -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse <br> -https://all-in-one-market.com <br> -https://hudhudexpress.com/ <br > -https://gsap-project-cd4a.vercel.app/ <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
+📫 Let's connect:https://www.linkedin.com/in/biniyam-merkin-0046a9250/<br>  I’m currently working on the projects listed below.<br>    -https://commercepal.com/browse<br>      -https://hustler.commercepal.com/browse <br> -https://all-in-one-market.com <br> -https://hudhudexpress.com/ <br > -https://gsap-project-cd4a.vercel.app/ <br>👯 Feel free to reach out to me for collaboration opportunities or just to say hello! 😊
 
 
 ## 🌐 Socials:
