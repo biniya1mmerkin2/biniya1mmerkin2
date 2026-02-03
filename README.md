@@ -4,8 +4,6 @@
 🚀 I enjoy turning ideas and designs into intuitive, high-quality digital products. I’m currently expanding my skills into full-stack development and actively working on production-level projects.<br>
 🌐 Recent Projects:<br>
 • https://commercepal.com/browse<br>
-• https://hustler.commercepal.com/browse<br>
-• https://all-in-one-market.com<br>
 • https://hudhudexpress.com<br>
 • https://gsap-project-cd4a.vercel.app<br>
 
